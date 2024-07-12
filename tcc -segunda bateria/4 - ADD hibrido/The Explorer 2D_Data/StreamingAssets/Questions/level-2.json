@@ -1,0 +1,17 @@
+﻿{
+    "survey" : {
+		"title" : "Dados do nível",
+		"questions" : [
+			{
+				"id" : 0,
+				"question" : "Como você descreveria a dificuldade do nível?",
+				"answers" : [ "10scale", "Muito fácil", "Muito difícil" ]
+			},
+			{
+				"id" : 1,
+				"question" : "Você concorda com a seguinte afirmação?",
+				"answers" : [ "scale4", "Discordo muito", "Concordo muito", "Eu me diverti com o nível", "Eu me senti desafiado pelo nível", "Eu me senti frustrado jogando o nível", "Eu me senti entediado jogando o nível" ]
+			}
+		]
+	}
+}

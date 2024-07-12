@@ -1,0 +1,38 @@
+﻿{
+    "survey" : {
+		"title" : "Dados do jogo",
+		"questions" : [
+			{
+				"id" : 0,
+				"question" : "Como você considera o seu desempenho no jogo?",
+				"answers" : [ "scale", "Péssimo", "Ótimo" ]
+			},{
+				"id" : 1,
+				"question" : "Em relação a cada opção, você concorda que as seguintes ações foram importantes para influenciar o seu desempenho?",
+				"answers" : [ "scale7", "Discordo muito", "Concordo muito", "Alcançar o final do nível", "Coletar chaves (colecionáveis amarelos)", "Dominar os controles da personagem", "Completar o nível o mais rápido possível", "Derrotar o máximo de inimigos possível", "Explorar ao máximo o ambiente", "Melhorar o desempenho próprio no jogo" ]
+			},
+			{
+				"id" : 2,
+				"question" : "Em relação a cada opção, o jogo se tornou mais desafiador com a presença deste elemento?",
+				"answers" : [ "scale3", "Discordo muito", "Concordo muito", "Plataformas que se movem", "Plataformas distantes (precisa pular mais longe para alcançar)", "Tamanho reduzido das plataformas (espaço menor para andar)" ]
+			},
+			{
+				"id" : 3,
+				"question" : "Em relação a cada opção, o jogo se tornou mais desafiador com a presença deste elemento?",
+				"answers" : [ "scale4", "Discordo muito", "Concordo muito", "Obstáculos (objetos que pode destruir ou empurrar)", "Espinhos", "Inimigos com ataque corpo-a-corpo (inimigo rosa)", "Inimigos com ataque à distância (inimigo azul)" ]
+			},
+			{
+				"id" : 4,
+				"question" : "Você concorda com a seguinte afirmação?",
+				"answers" : [ "scale2", "Discordo muito", "Concordo muito", "Eu me arrisquei durante o jogo", "Eu procurei completar o jogo sem desistir" ]
+			},
+			{
+				"id" : 5,
+				"question" : "Caso deseje, informe suas observações sobre o jogo.",
+				"detail": "Preenchimento opcional para informar sugestões e problemas com o jogo.",
+				"answers" : [ ],
+				"optional": true
+			}
+		]
+	}
+}

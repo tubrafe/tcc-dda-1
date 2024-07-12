@@ -1,0 +1,158 @@
+{
+  "survey": {
+    "title": "Dados sociodemográficos",
+    "user": "17",
+    "questions": [
+      {
+        "ID": 0,
+        "Question": "Qual o seu nome?",
+        "Answer": "Shiro"
+      },
+      {
+        "ID": 1,
+        "Question": "Qual a sua idade?",
+        "Answer": "23"
+      },
+      {
+        "ID": 2,
+        "Question": "Qual o seu gênero?",
+        "Answer": "Masculino"
+      },
+      {
+        "ID": 3,
+        "Question": "Quanto você se considera um jogador dedicado?",
+        "Answer": "5"
+      },
+      {
+        "ID": 4,
+        "Question": "Quanto você está familiarizado com jogos de plataforma (ex: Mario, Sonic)?",
+        "Answer": "7"
+      },
+      {
+        "ID": 5,
+        "Question": "Qual a sua impressão geral sobre jogos de plataforma?",
+        "Answer": "7"
+      },
+      {
+        "ID": 6,
+        "Question": "Qual a sua dificuldade preferida em jogos?",
+        "Answer": "Médio"
+      },
+      {
+        "ID": 7,
+        "Question": "Computador pessoal (desktop ou laptop)",
+        "Answer": "2"
+      },
+      {
+        "ID": 7,
+        "Question": "Celular / tablet",
+        "Answer": "3"
+      },
+      {
+        "ID": 7,
+        "Question": "Outros (ex: Playstation, Xbox)",
+        "Answer": "7"
+      },
+      {
+        "ID": 8,
+        "Question": "É importante para mim seguir o meu próprio caminho",
+        "Answer": "5"
+      },
+      {
+        "ID": 8,
+        "Question": "Eu gosto de provocar situações inesperadas",
+        "Answer": "7"
+      },
+      {
+        "ID": 8,
+        "Question": "Eu sou muito ambicioso",
+        "Answer": "7"
+      },
+      {
+        "ID": 8,
+        "Question": "Eu gosto de competições onde um prêmio pode ser ganho",
+        "Answer": "7"
+      },
+      {
+        "ID": 8,
+        "Question": "Muitas vezes deixo minha curiosidade me guiar",
+        "Answer": "7"
+      },
+      {
+        "ID": 8,
+        "Question": "Gosto de questionar o status quo (não conformismo com o estado das coisas)",
+        "Answer": "7"
+      },
+      {
+        "ID": 8,
+        "Question": "As recompensas são uma ótima maneira de me motivar",
+        "Answer": "7"
+      },
+      {
+        "ID": 9,
+        "Question": "Eu gosto de experimentar coisas novas",
+        "Answer": "7"
+      },
+      {
+        "ID": 9,
+        "Question": "Gosto de vencer obstáculos",
+        "Answer": "6"
+      },
+      {
+        "ID": 9,
+        "Question": "Eu cuido dos meus próprios interesses",
+        "Answer": "7"
+      },
+      {
+        "ID": 9,
+        "Question": "Eu me vejo como um rebelde",
+        "Answer": "5"
+      },
+      {
+        "ID": 9,
+        "Question": "É importante para mim sempre realizar minhas tarefas completamente",
+        "Answer": "5"
+      },
+      {
+        "ID": 9,
+        "Question": "Prefiro definir meus próprios objetivos",
+        "Answer": "7"
+      },
+      {
+        "ID": 9,
+        "Question": "Não gosto de seguir regras",
+        "Answer": "4"
+      },
+      {
+        "ID": 10,
+        "Question": "É difícil para mim deixar de lado um problema antes de encontrar uma solução",
+        "Answer": "2"
+      },
+      {
+        "ID": 10,
+        "Question": "O retorno do investimento é importante para mim",
+        "Answer": "5"
+      },
+      {
+        "ID": 10,
+        "Question": "Ser independente é importante para mim",
+        "Answer": "5"
+      },
+      {
+        "ID": 10,
+        "Question": "Gosto de dominar tarefas difíceis",
+        "Answer": "4"
+      },
+      {
+        "ID": 10,
+        "Question": "Eu gosto de mudar as coisas com minhas próprias mãos",
+        "Answer": "6"
+      },
+      {
+        "ID": 10,
+        "Question": "Se a recompensa for suficiente, vou me esforçar",
+        "Answer": "7"
+      }
+    ]
+  }
+}

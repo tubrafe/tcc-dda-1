@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "937287634370",
+    "project_id": "the-explorer-2d",
+    "firebase_url": "the-explorer-2d.firebaseio.com",
+    "storage_bucket": "the-explorer-2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937287634370:android:82c8be672d883712631a5b",
+        "android_client_info": {
+          "package_name": "unb.android.theexplorer2d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937287634370-bteukmb5k1vmrc96fft1hnki3iu7bhig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUlaeep-lymhJCRKoZGIF3AdS4Yh8VhCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937287634370-bteukmb5k1vmrc96fft1hnki3iu7bhig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "937287634370-0hqba776aoosteivjutctc7it2tb8pcn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "unb.cic"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937287634370:android:6b18f8e7af91d9e6631a5b",
+        "android_client_info": {
+          "package_name": "unb.cic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937287634370-bteukmb5k1vmrc96fft1hnki3iu7bhig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUlaeep-lymhJCRKoZGIF3AdS4Yh8VhCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937287634370-bteukmb5k1vmrc96fft1hnki3iu7bhig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "937287634370-0hqba776aoosteivjutctc7it2tb8pcn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "unb.cic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

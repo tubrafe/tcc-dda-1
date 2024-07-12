@@ -1,0 +1,69 @@
+﻿{
+    "survey" : {
+		"title" : "Dados sociodemográficos",
+		"questions" : [
+			{
+				"id" : 0,
+				"question" : "Qual o seu nome?",
+				"detail": "Perguntas não visam identificação, apenas a eliminação de eventual duplo preenchimento. Para estudantes do CED01, preencher com identificação de chamada (ex: 3B-14).",
+				"answers" : [ ]
+			},
+			{
+				"id" : 1,
+				"question" : "Qual a sua idade?",
+				"answers" : [ ]
+			},
+			{
+				"id" : 2,
+				"question" : "Qual o seu gênero?",
+				"answers" : [ "Feminino", "Masculino", "Outro" ]
+			},
+			{
+				"id" : 3,
+				"question" : "Quanto você se considera um jogador dedicado?",
+				"answers" : [ "scale", "Casual", "Dedicado" ]
+			},
+			{
+				"id" : 4,
+				"question" : "Quanto você está familiarizado com jogos de plataforma (ex: Mario, Sonic)?",
+				"answers" : [ "scale", "Pouco familiarizado", "Muito familiarizado" ]
+			},
+			{
+				"id" : 5,
+				"question" : "Qual a sua impressão geral sobre jogos de plataforma?",
+				"answers" : [ "scale", "Não gosta", "Gosta muito" ]
+			},
+			{
+				"id" : 6,
+				"question" : "Qual a sua dificuldade preferida em jogos?",
+				"answers" : [ "Fácil", "Médio", "Difícil" ]
+			},
+			{
+				"id" : 7,
+				"question" : "Com que frequência você joga nos seguintes dispositivos?",
+				"answers" : [ "scale3", "Nunca", "Diariamente", "Computador pessoal (desktop ou laptop)", "Celular / tablet", "Outros (ex: Playstation, Xbox)" ]
+			},
+			{
+				"id" : 8,
+				"question" : "Você concorda com a seguinte afirmação?",
+				"answers" : [ "scale7", "Discordo muito", "Concordo muito", "É importante para mim seguir o meu próprio caminho", "Eu me vejo buscando situações de alto-risco frequentemente", "Eu gosto de provocar situações inesperadas", "Eu sou muito ambicioso", "Eu sempre opto pelo caminho mais seguro", "Eu gosto de competições onde um prêmio pode ser ganho", "Muitas vezes deixo minha curiosidade me guiar"
+				]
+			},
+			{
+				"id" : 9,
+				"question" : "Você concorda com a seguinte afirmação?",
+				"answers" : [ "scale7", "Discordo muito", "Concordo muito", "Gosto de questionar o status quo (não conformismo com o estado das coisas)", "As recompensas são uma ótima maneira de me motivar", "Eu desisto facilmente", "Eu gosto de experimentar coisas novas", "Gosto de vencer obstáculos", "Eu cuido dos meus próprios interesses", "Eu penso muito antes de agir" ]
+			},
+			{
+				"id" : 10,
+				"question" : "Você concorda com a seguinte afirmação?",
+				"answers" : [ "scale6", "Discordo muito", "Concordo muito", "Eu me vejo como um rebelde", "É importante para mim sempre realizar minhas tarefas completamente", "Prefiro definir meus próprios objetivos", "Não gosto de seguir regras", "É difícil para mim deixar de lado um problema antes de encontrar uma solução", "Situações de risco me deixam empolgado" ]
+			},
+			{
+				"id" : 11,
+				"question" : "Você concorda com a seguinte afirmação?",
+				"answers" : [ "scale6", "Discordo muito", "Concordo muito", "O retorno do investimento é importante para mim", "Ser independente é importante para mim", "Gosto de dominar tarefas difíceis", "Eu gosto de mudar as coisas com minhas próprias mãos", "Eu sempre alcanço meus objetivos não importando a dificuldade", "Se a recompensa for suficiente, vou me esforçar" ]
+			}
+		]
+	}
+}

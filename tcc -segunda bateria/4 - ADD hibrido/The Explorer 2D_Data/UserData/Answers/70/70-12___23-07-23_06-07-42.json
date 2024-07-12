@@ -1,0 +1,88 @@
+{
+  "survey": {
+    "title": "Dados do jogo",
+    "user": "70",
+    "questions": [
+      {
+        "ID": 0,
+        "Question": "Como você considera o seu desempenho no jogo?",
+        "Answer": "6"
+      },
+      {
+        "ID": 1,
+        "Question": "O jogo foi desafiador",
+        "Answer": "3"
+      },
+      {
+        "ID": 1,
+        "Question": "Eu gostei da experiência de jogar esse jogo",
+        "Answer": "7"
+      },
+      {
+        "ID": 1,
+        "Question": "Eu fui desafiado pelo jogo, mas me achei capaz de superar todos os desafios",
+        "Answer": "3"
+      },
+      {
+        "ID": 2,
+        "Question": "Eu me senti entediado ao decorrer do jogo",
+        "Answer": "4"
+      },
+      {
+        "ID": 2,
+        "Question": "Eu me senti frustrado ao decorrer do jogo",
+        "Answer": "1"
+      },
+      {
+        "ID": 2,
+        "Question": "Eu me diverti ao decorrer do jogo",
+        "Answer": "7"
+      },
+      {
+        "ID": 2,
+        "Question": "A dificuldade do jogo foi apropriada para as minhas habilidades",
+        "Answer": "3"
+      },
+      {
+        "ID": 2,
+        "Question": "A dificuldade do jogo variava muito entre níveis seguidos (ex: nível fácil após difícil)",
+        "Answer": "1"
+      },
+      {
+        "ID": 2,
+        "Question": "A dificuldade do jogo aumentava progressivamente ao longo dos níveis",
+        "Answer": "4"
+      },
+      {
+        "ID": 3,
+        "Question": "Minha atenção estava inteiramente focada no jogo",
+        "Answer": "7"
+      },
+      {
+        "ID": 3,
+        "Question": "Em vários momentos me vi fazendo coisas automaticamente, sem precisar pensar",
+        "Answer": "7"
+      },
+      {
+        "ID": 3,
+        "Question": "Eu perdi a noção do tempo enquanto jogava o jogo",
+        "Answer": "7"
+      },
+      {
+        "ID": 3,
+        "Question": "Eu senti que tinha controle do que estava fazendo",
+        "Answer": "6"
+      },
+      {
+        "ID": 3,
+        "Question": "Eu fiquei preocupado em falhar no jogo",
+        "Answer": "1"
+      },
+      {
+        "ID": 4,
+        "Question": "Caso deseje, informe suas observações sobre o jogo.",
+        "Answer": "Notei que em alguns pontos do mapa eh possivel pular na parede (wall jump), acredito que nao seja uma das mecanicas do jogo. Outro ponto eh que foi possivel escalar uma estrutura que acredito que seja uma decoracao mas foi possivel entrar, mas nao era possivel sair dada a altura que a personagem pulava. No mais, parabens, o jogo eh bem divertido!"
+      }
+    ]
+  }
+}

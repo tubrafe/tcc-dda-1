@@ -1,0 +1,34 @@
+﻿{
+    "survey" : {
+		"title" : "Dados do jogo",
+		"questions" : [
+			{
+				"id" : 0,
+				"question" : "Como você considera o seu desempenho no jogo?",
+				"answers" : [ "scale", "Péssimo", "Ótimo" ]
+			},
+			{
+				"id" : 1,
+				"question" : "Você concorda com a seguinte afirmação?",
+				"answers" : [ "scale3", "Discordo muito", "Concordo muito", "O jogo foi desafiador", "Eu fui desafiado pelo jogo, mas me achei capaz de superar todos os desafios", "Eu gostei da experiência de jogar esse jogo" ]
+			},
+			{
+				"id" : 2,
+				"question" : "Você concorda com a seguinte afirmação?",
+				"answers" : [ "scale6", "Discordo muito", "Concordo muito", "Eu me senti entediado ao decorrer do jogo", "Eu me senti frustrado ao decorrer do jogo", "Eu me diverti ao decorrer do jogo", "A dificuldade do jogo foi apropriada para as minhas habilidades", "A dificuldade do jogo variava muito entre níveis seguidos (ex: nível fácil após difícil)", "A dificuldade do jogo aumentava progressivamente ao longo dos níveis" ]
+			},
+			{
+				"id" : 3,
+				"question" : "Você concorda com a seguinte afirmação?",
+				"answers" : [ "scale5", "Discordo muito", "Concordo muito", "Minha atenção estava inteiramente focada no jogo", "Em vários momentos me vi fazendo coisas automaticamente, sem precisar pensar", "Eu perdi a noção do tempo enquanto jogava o jogo", "Eu senti que tinha controle do que estava fazendo", "Eu fiquei preocupado em falhar no jogo" ]
+			},
+			{
+				"id" : 4,
+				"question" : "Caso deseje, informe suas observações sobre o jogo.",
+				"detail": "Preenchimento opcional para informar sugestões e problemas com o jogo.",
+				"answers" : [ ],
+				"optional": true
+			}
+		]
+	}
+}
